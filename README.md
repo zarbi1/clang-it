@@ -11,5 +11,7 @@ Clang-It supports regex that will be used to determine if a file should be clang
 ``./clang-it <source-dir> [regex]``
 ### Examples
 ``./clang-it foo "*.c"``
+
 ``./clang-it foo``
+
 ``./clang-it foo "ba?.c"``
